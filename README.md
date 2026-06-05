@@ -1,5 +1,5 @@
 # 💫 About Me:
-CS student with a passion for design and<br>coding. <br><br>I create complete and consistent visual<br>identities, develop software solutions,<br>and I'm driven by determination to<br>achieve my goals.
+CS student with a strong passion for design and<br>coding. <br><br>I create complete and consistent visual<br>identities, develop software solutions,<br>and I'm driven by determination to<br>achieve my goals.
 
 
 ## 🌐 Socials:
